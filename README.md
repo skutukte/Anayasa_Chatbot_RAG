@@ -127,6 +127,7 @@ anayasa_chatbot/
 ### RAG Mimarisi İşleyişi
 
 ```mermaid
+graph TD
     A[Kullanıcı Sorusu] --> B[Text Embedder]
     B --> C[Similarity Search]
     C --> D[Document Retriever]
@@ -204,10 +205,7 @@ Kullanıcılar:
 - Chat geçmişi görüntüleyebilir
 
 ### 🎥 Demo Video
-
-```markdown
-🎥 **Demo Video**: [İzlemek için tıklayın](./assets/demo_video.mp4)
-```
+![Demo](./assets/demo.gif)
 
 ### 🔗 Deploy Linki
 **Canlı Demo**: [Anayasa_Chatbot.app](https://anayasa-chatbot.streamlit.app)
