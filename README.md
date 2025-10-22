@@ -41,8 +41,8 @@ for i in range(1, len(madde_metinleri), 2):
 
 1. **Repository Klonlama**
 ```bash
-git clone [repository-url]
-cd anayasa_chatbot
+git clone https://github.com/skutukte/Anayasa_Chatbot_RAG.git
+cd Anayasa_Chatbot_RAG
 ```
 
 2. **Virtual Environment Kurulumu**
