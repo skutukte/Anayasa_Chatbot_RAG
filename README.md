@@ -96,7 +96,7 @@ anayasa_chatbot/
 ├── anayasa.txt                     # Anayasa metni veri seti
 ├── anayasa_chatbot_tutorial.ipynb  # Jupyter notebook tutorial
 ├── assets/                         # Video ve görseller
-│   ├── demo_video.mp4              # Kullanım demo videosu
+│   ├── demo.gif                    # Kullanım demo videosu
 │   └── screenshots/                # Ekran görüntüleri
 ├── LICENSE                         # MIT Lisansı
 └── README.md                       # Bu dosya
@@ -189,12 +189,6 @@ Kullanıcılar karşılandıktan sonra:
 
 #### 2. Örnek Sorular
 ![Örnek Sorular](./assets/screenshots/example_questions.png)
-
-Hızlı test için hazır sorular:
-- 🏛️ "Cumhurbaşkanı nasıl seçilir?"
-- 📜 "Anayasa nedir?"
-- ⚖️ "Temel hak ve özgürlükler nelerdir?"
-- ✏️ "Anayasa nasıl değiştirilir?"
 
 #### 3. Serbest Soru Sorma
 ![Chat Interface](./assets/screenshots/chat_interface.png)
