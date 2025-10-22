@@ -1,0 +1,22 @@
+# Streamlit web framework
+streamlit>=1.28.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Haystack AI framework (2.x version for modern API)
+haystack-ai>=2.17.1
+
+# Embeddings and NLP
+sentence-transformers>=2.2.0
+
+# Google Gemini integration
+google-generativeai>=0.3.0
+google-genai-haystack>=1.0.0
+
+# PDF processing (optional, if needed)
+pypdf>=3.0.0
+
+# Additional dependencies for Haystack 2.x
+transformers>=4.30.0
+torch>=2.0.0
