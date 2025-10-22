@@ -202,4 +202,4 @@ Kullanıcılar:
 ![Demo](./assets/demo.gif)
 
 ### 🔗 Deploy Linki
-**Canlı Demo**: [Anayasa_Chatbot.app](https://anayasa-chatbot.streamlit.app)
+**Canlı Demo**: [Anayasa_Chatbot](https://anayasachatbotrag.streamlit.app/)
